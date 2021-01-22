@@ -1,26 +1,32 @@
 <h1>Dog Icing</h1>
 
-# Header 1
-## Header 2
-### Header 3
+<!-- Slideshow container -->
+<div class="slideshow-container">
 
-- Bulleted
-- List
+  <!-- Full-width slides/quotes -->
+  <div class="mySlides">
+    <q>I love you the more in that I believe you had liked me for my own sake and for nothing else</q>
+    <p class="author">- John Keats</p>
+  </div>
 
-1. Numbered
-2. List
+  <div class="mySlides">
+    <q>But man is not made for defeat. A man can be destroyed but not defeated.</q>
+    <p class="author">- Ernest Hemingway</p>
+  </div>
 
-**Bold** and _Italic_ and `Code` text
+  <div class="mySlides">
+    <q>I have not failed. I've just found 10,000 ways that won't work.</q>
+    <p class="author">- Thomas A. Edison</p>
+  </div>
 
-[Link](url) and ![Image](src)
-```
+  <!-- Next/prev buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DogIcing/dog-icing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!-- Dots/bullets/indicators -->
+<div class="dot-container">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
