@@ -3,6 +3,6 @@
 
 <table style="width:100%">
   <tr>
-    <th>My Projects</th>
+    <th><a href="url">My projects</a></th>
   </tr>
 </table>
