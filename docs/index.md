@@ -6,7 +6,10 @@
     <th><a href="https://dogicing.github.io/index.html-hopnet/">About HopNet</a></th>
   </tr>
   <br>
-  <p>Coming soon:</p>
+  <tr>
+    <th><p>Coming soon:</p></th>
+  </tr>
+  <br>
   <tr>
     <th><a href="https://dogicing.github.io/">HopNet</a></th>
   </tr>
