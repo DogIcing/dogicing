@@ -3,6 +3,9 @@
 
 <table style="width:100%">
   <tr>
-    <th><a href="https://dogicing.github.io/index.html-hopnet/">My projects</a></th>
+    <th><a href="https://dogicing.github.io/index.html-hopnet/">HopNet</a></th>
+  </tr>
+  <tr>
+    <th><a href="https://dogicing.github.io/index.html-hopnet/">HopNet</a></th>
   </tr>
 </table>
