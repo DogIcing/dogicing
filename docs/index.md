@@ -8,6 +8,6 @@
   <br>
   <p>Coming soon:</p>
   <tr>
-    <th><a href="">HopNet</a></th>
+    <th><a href="https://dogicing.github.io/">HopNet</a></th>
   </tr>
 </table>
