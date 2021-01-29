@@ -22,5 +22,10 @@ Invented by Awesome_e. Text by Dog Icing.
 <li>And Done!</li>
 </ul>
 
+<br>
+
+<button onclick="window.location.href='https://dogicing.github.io/hopnet/';">
+      HopNet
+    </button>
 
 </div>
