@@ -1,6 +1,3 @@
-
-<h1>Dog Icing</h1>
-
 <button title="Make your project into an app (this requires the shortcuts app)" type="button" onclick="if(document.getElementById('turtorial') .style.display=='none') {document.getElementById('turtorial') .style.display=''}else{document.getElementById('turtorial') .style.display='none'}">Make your project into an "app"</button>
 <div id="turtorial" style="display:none">
 
