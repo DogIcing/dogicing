@@ -2,8 +2,6 @@
 <div id="turtorial" style="display:none">
 
   
-Invented by Awesome_e. Text by Dog Icing.
-<br>
 <img src="1D26888C-553A-49E6-98E9-8A218D7D9453.jpeg" alt="img">
 <br>
 <ul> 
