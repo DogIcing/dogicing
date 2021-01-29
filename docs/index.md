@@ -9,7 +9,7 @@ Invented by Awesome_e. Photos and text by Dog Icing
   
 First, open the shortcuts app and create a new shortcut.
 
-img
+<img src="1D26888C-553A-49E6-98E9-8A218D7D9453.jpeg" alt="img">
 
 Next, open "Web", scroll down to safari.
 
