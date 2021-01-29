@@ -14,8 +14,7 @@ First, open the shortcuts app and create a new shortcut.
 Next, open "Web", scroll down to safari.
 
 <video>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
+  <source src="IMG_6337.MP4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
