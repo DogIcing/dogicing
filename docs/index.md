@@ -6,8 +6,9 @@
 
   
 Invented by Awesome_e. Text by Dog Icing.
+<br>
 <img src="1D26888C-553A-49E6-98E9-8A218D7D9453.jpeg" alt="img">
-
+<br>
 <ul> 
   <li>First, open the shortcuts app and create a new shortcut.</li>
   <br>
