@@ -13,7 +13,11 @@ First, open the shortcuts app and create a new shortcut.
 
 Next, open "Web", scroll down to safari.
 
-img
+<video>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
 
 Now, select either show webpage or open URLs.
 
