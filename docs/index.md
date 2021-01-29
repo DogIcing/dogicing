@@ -19,11 +19,8 @@
   <br>
 <li>And Done!</li>
 </ul>
-
-<br>
-
+</div>
 <button onclick="window.location.href='https://dogicing.github.io/hopnet/';">
       HopNet
     </button>
 
-</div>
