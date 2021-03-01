@@ -4,6 +4,31 @@
 <title>About Dog Icing</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="CssCode.css">
+ <head>  
+<meta charset="utf-8" />  
+<title>HTML5 Color Picker Demonstrated</title>  
+<script language="javascript">  
+function newBackgroundColor(color)  
+{  
+ document.bgColor = color;  
+ document.colorForm.selectedcolor.value = color;  
+}  
+</script>  
+</head>  
+<body bgcolor="white">  
+<header>  
+<h1>HTML 5 Color Picker Demonstrated</h1>  
+</header>  
+<form name="colorForm">  
+  <p>Select Background Color  
+  <input name="colorpicker" type="color"onchange="newBackgroundColor(colorpicker.value);">  
+ </p>  
+ <p>  
+ Selected Color  
+ <input name="selectedcolor" type="text">  
+ </p>  
+ </form>  
+ </body>
 <body>
 <style>
     a:link {
